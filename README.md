@@ -46,12 +46,6 @@ lib/
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here after running on emulator or device._
-
----
-
 ## 🛠 Built With
 
 - Flutter (Dart)
