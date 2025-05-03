@@ -28,7 +28,7 @@ lib/
 
 1. **Clone the project**
    ```bash
-   git clone https://github.com/your-username/pomodoro_clock_ui.git
+   git clone https://github.com/bektas-sari/pomodoro_clock_ui.git
    cd pomodoro_clock_ui
    ```
 
@@ -65,7 +65,7 @@ lib/
 
 ## 📄 License
 
-MIT License © 2024 Bektas Sari  
+MIT License © 2025 Bektas Sari  
 Use freely for personal or educational purposes.
 
 
