@@ -1,6 +1,7 @@
 # ⏰ Pomodoro Clock UI (Flutter APP)
 
-A modern and minimal Pomodoro timer built with Flutter. This app helps you follow the 25/5 productivity method: 25 minutes of focused work followed by a 5-minute break. Includes animated circular progress and smooth control buttons.
+A modern and minimal Pomodoro timer built with Flutter. 
+This app helps you follow the 25/5 productivity method: 25 minutes of focused work followed by a 5-minute break. Includes animated circular progress and smooth control buttons.
 
 ---
 
